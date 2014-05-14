@@ -35,3 +35,4 @@ nosetests.xml
 .project
 .pydevproject
 pp_processed.h5
+.DS_Store
