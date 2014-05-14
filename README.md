@@ -1,6 +1,8 @@
 land-registry-price-paid-data
 =============================
 
+to be read
+
 Converting UK Land registry house price data to Python Pandas DataFrame.
 
 The results of running `csv_to_HDF5.py` is a `1.7 Gb` HDF5 file suitable for importing into Pandas, it contains 18809484 rows and the following columns:
